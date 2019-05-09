@@ -7,31 +7,30 @@
 ## category
 
 <details><summary>JavaScript</summary>
-<li><a href="https://github.com/Min-92/JavaScript">JavaScript</a></li>
-- [javaScript](https://github.com/Min-92/JavaScript)
-- [자바스크립트 참조타입(객체타입)](<https://github.com/Min-92/JavaScript/blob/master/docs/referenceType.md>)
+<li><a href="https://github.com/Min-92/JavaScript">JavaScript README</a></li>
+<li><a href="https://github.com/Min-92/JavaScript/blob/master/docs/referenceType.md">자바스크립트 참조타입(객체타입)</a></li>
 </div>
 </details>
 
 <details>
 <summary>CodeSquad</summary>
-- [코드스쿼드 온라인 리뷰 방법](<https://github.com/Min-92/Documents/blob/master/codeSquad/CodeReview.md>)
+<li><a href="https://github.com/Min-92/Documents/blob/master/codeSquad/CodeReview.md">코드스쿼드 온라인 리뷰 방법</a></li>
 </div>
 </details>
 
 <details>
 <summary>DataStructure</summary>
-
+<li><a href=""></a></li>
 
 </div>
 </details>
 
 <details>
 <summary>Commands</summary>
-- [C++](<https://github.com/Min-92/Documents/blob/master/commands/cpp.md>)
-- [UNIX](<https://github.com/Min-92/Documents/blob/master/commands/unix.md>)
-- [Vim](<https://github.com/Min-92/Documents/blob/master/commands/vim.md>)
-- [VsCode Debugging](<https://github.com/Min-92/Documents/blob/master/commands/vscode.md>)
+<li><a href="https://github.com/Min-92/Documents/blob/master/commands/cpp.md">C++</a></li>
+<li><a href="https://github.com/Min-92/Documents/blob/master/commands/unix.m">UNIX</a></li>
+<li><a href="https://github.com/Min-92/Documents/blob/master/commands/vim.md">Vim</a></li>
+<li><a href="https://github.com/Min-92/Documents/blob/master/commands/vscode.md">VsCode Debugging</a></li>
 </div>
 </details>
 
@@ -44,7 +43,7 @@
 
 <details>
 <summary>vsCode</summary>
-- [vscode 에서 C++ 디버깅하기](<https://github.com/Min-92/Documents/blob/master/vsCode/cppOnVC.md>)
+<li><a href="https://github.com/Min-92/Documents/blob/master/vsCode/cppOnVC.md">vscode 에서 C++ 디버깅하기</a></li>
 
 </div>
 </details>
