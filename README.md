@@ -7,6 +7,7 @@
 ## category
 
 <details><summary>JavaScript</summary>
+<li><a href="https://github.com/Min-92/JavaScript">JavaScript</a></li>
 - [javaScript](https://github.com/Min-92/JavaScript)
 - [자바스크립트 참조타입(객체타입)](<https://github.com/Min-92/JavaScript/blob/master/docs/referenceType.md>)
 </div>
@@ -15,7 +16,6 @@
 <details>
 <summary>CodeSquad</summary>
 - [코드스쿼드 온라인 리뷰 방법](<https://github.com/Min-92/Documents/blob/master/codeSquad/CodeReview.md>)
-
 </div>
 </details>
 
@@ -32,13 +32,11 @@
 - [UNIX](<https://github.com/Min-92/Documents/blob/master/commands/unix.md>)
 - [Vim](<https://github.com/Min-92/Documents/blob/master/commands/vim.md>)
 - [VsCode Debugging](<https://github.com/Min-92/Documents/blob/master/commands/vscode.md>)
-
 </div>
 </details>
 
 <details>
 <summary>Git</summary>
-
 
 
 </div>
