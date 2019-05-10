@@ -19,8 +19,10 @@
 </details>
 
 <details>
-<summary>DataStructure</summary>
-<li><a href=""></a></li>
+<summary>Computer Science</summary>
+<li><a href="https://github.com/Min-92/CS23/blob/master/step1/STEP1DigitalLogicGate.md">디지털 논리회로</a></li>
+<li><a href="https://github.com/Min-92/CS23/blob/master/step2/step2cs.md
+">컴퓨터 시뮬레이터(CPU, MEMORY)</a></li>
 
 </div>
 </details>
@@ -31,6 +33,12 @@
 <li><a href="https://github.com/Min-92/Documents/blob/master/commands/unix.m">UNIX</a></li>
 <li><a href="https://github.com/Min-92/Documents/blob/master/commands/vim.md">Vim</a></li>
 <li><a href="https://github.com/Min-92/Documents/blob/master/commands/vscode.md">VsCode Debugging</a></li>
+</div>
+</details>
+
+<details>
+<summary>DataStructure</summary>
+<li><a href=""></a></li>
 </div>
 </details>
 
