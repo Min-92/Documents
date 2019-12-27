@@ -1,4 +1,4 @@
-<mxfile modified="2019-12-27T08:25:55.972Z" host="www.draw.io" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36" etag="_AkK1vAIf4Ve5Vx1iDsu" version="12.4.3" type="github" pages="1">
+<mxfile modified="2019-12-27T08:26:09.943Z" host="www.draw.io" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36" etag="VPyQsHE-X8V-NMmtoK0h" version="12.4.3" type="github" pages="1">
   <diagram id="WI9T0HZ2pTsCkuznbFz-" name="Page-1">
     <mxGraphModel dx="1583" dy="697" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -169,12 +169,6 @@
         </mxCell>
         <mxCell id="O9VdIUtiscy_D06_Lshy-63" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/christmas-46/64/christmas-icon-cookie-128.png" parent="1" vertex="1">
           <mxGeometry x="290" y="700" width="42" height="42" as="geometry"/>
-        </mxCell>
-        <mxCell id="IZaOcn1RLYp9R1H-eVUY-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E6E6E6;" vertex="1" parent="1">
-          <mxGeometry x="212" y="460" width="158" height="40" as="geometry"/>
-        </mxCell>
-        <mxCell id="IZaOcn1RLYp9R1H-eVUY-2" value="GET&amp;nbsp; /index.html&amp;nbsp; HTTP/1.1&lt;br&gt;Host : Min-92.github.io" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="213" y="461" width="170" height="30" as="geometry"/>
         </mxCell>
         <mxCell id="IZaOcn1RLYp9R1H-eVUY-3" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E6E6E6;" vertex="1" parent="1">
           <mxGeometry x="234.5" y="535" width="158" height="40" as="geometry"/>
