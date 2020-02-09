@@ -1,4 +1,4 @@
-# Vscode 에서 C++ 컴파일, 디버깅하기
+# Vscode 에서 C++ 컴파일, 디버깅하기(window10)
 
 1. MinGW 설치하기
 https://sourceforge.net/projects/mingw/files/latest/download  
