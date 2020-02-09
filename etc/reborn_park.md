@@ -109,6 +109,8 @@
     - 인터뷰 : https://youtu.be/V9AGvwPmnZU
 - 초보몽키 블로그 (기록 관련 참고)
     - [https://wayhome25.github.io/](https://wayhome25.github.io/)
+- 후배 개발자에게
+    - 박재성님 글 : https://brunch.co.kr/@javajigi/4
 
 ### 교육기관
 - 네이버 : 부스트 캠프
