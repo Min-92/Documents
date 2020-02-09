@@ -25,8 +25,7 @@
 - python → pycham 파이참
 - java → inteli J (유료/ 학생버전) , 이클립스 (존나구려)
 
-- atom,
-- //메모장, notepad++
+- atom, //메모장, notepad++
 
 - 자바 공부하면 인프런, 프로그래머스 박재성 강의 듣기((보고 따라 하지말고/ 이렇게 해봐라 시키니까 그거 따라서 만들어보고/ 나중에 결과를 확인))
 - 가이드, 로드맵을주고 파트에 맞는 미션 → 미션을 혼자서 (구글링, 책, 지인, 친구) 끝까지 만들어본다 → 결과를 확인
@@ -80,8 +79,7 @@
 - 전세계 대부분 기업이 사용 (우리나라도 사용)
 - 신입개발자 취업시에 필요 (어떻게 잘 관리했나, 너가 프로젝트를 어떤걸 해왔나)
 
-## 참고 링크
-
+## 참고
 - 생활코딩
     - [https://opentutorials.org/course/1](https://opentutorials.org/course/1)
 - 질문하는법
@@ -102,3 +100,15 @@
     - [https://soojin.ro/blog/english-for-developers-swift](https://soojin.ro/blog/english-for-developers-swift)
     - 카멜케이스 : 대문자로 구분 goToHome
     - 스네이크 케이스 : 언더바로 구분 go_to_home
+- 자바 추천 강의
+    - https://opentutorials.org/course/3930
+    - https://www.inflearn.com/course/java-codesquad
+    - https://programmers.co.kr/learn/courses/16
+- jojoldu 블로그 글
+    - https://jojoldu.tistory.com/277
+    - 인터뷰 : https://youtu.be/V9AGvwPmnZU
+### 교육기관
+- 네이버 : 부스트 캠프
+- 우아한 형제들 : 우아한테크코스, 우아한테크캠프(인턴난이도)
+- 한국형 에꼴42 : 42서울
+- 과기부 : 소프트웨어 마이스트로
