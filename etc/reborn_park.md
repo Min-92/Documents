@@ -104,9 +104,12 @@
     - https://opentutorials.org/course/3930
     - https://www.inflearn.com/course/java-codesquad
     - https://programmers.co.kr/learn/courses/16
-- jojoldu 블로그 글
+- jojoldu 블로그 글 (비전공자 국비 -> si -> 이직 사례)
     - https://jojoldu.tistory.com/277
     - 인터뷰 : https://youtu.be/V9AGvwPmnZU
+- 초보몽키 블로그 (기록 관련 참고)
+    - [https://wayhome25.github.io/](https://wayhome25.github.io/)
+
 ### 교육기관
 - 네이버 : 부스트 캠프
 - 우아한 형제들 : 우아한테크코스, 우아한테크캠프(인턴난이도)
